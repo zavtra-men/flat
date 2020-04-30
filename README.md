@@ -12,6 +12,7 @@
 Рядом школа, поликлиника, детский сад, озеро и зеленая зона.
 
 Солнечная сторона, большой балкон.
+На длительный срок.
 Цена 300 уе
 ![фото](https://github.com/zavtra-men/flat/blob/master/1.JPEG)
 ![фото](https://github.com/zavtra-men/flat/blob/master/2.JPEG)
