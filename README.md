@@ -12,3 +12,17 @@
 Рядом школа, поликлиника, детский сад, озеро и зеленая зона.
 
 Солнечная сторона, большой балкон.
+Цена 300 уе
+![фото](https://github.com/zavtra-men/flat/blob/master/1.JPEG)
+![фото](https://github.com/zavtra-men/flat/blob/master/2.JPEG)
+![фото](https://github.com/zavtra-men/flat/blob/master/3.JPEG)
+![фото](https://github.com/zavtra-men/flat/blob/master/4.JPEG)
+![фото](https://github.com/zavtra-men/flat/blob/master/5.JPEG)
+![фото](https://github.com/zavtra-men/flat/blob/master/6.JPEG)
+![фото](https://github.com/zavtra-men/flat/blob/master/7.JPEG)
+![фото](https://github.com/zavtra-men/flat/blob/master/8.JPEG)
+![фото](https://github.com/zavtra-men/flat/blob/master/9.JPEG)
+![фото](https://github.com/zavtra-men/flat/blob/master/10.JPEG)
+![фото](https://github.com/zavtra-men/flat/blob/master/11.JPEG)
+![фото](https://github.com/zavtra-men/flat/blob/master/12.JPEG)
+![фото](https://github.com/zavtra-men/flat/blob/master/13.JPEG)
